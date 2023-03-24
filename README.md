@@ -10,13 +10,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br />
-&nbsp;
-
-- 👨‍💻 **You can also check out my portfolio!** <a href="#" > Click Here </a>
-
-- 📫 **How to reach me!** <a href="mailto:showking00765@gmail.com" > Click Here </a>
-
-- **Don't forget to follow, If you like my Project.**
 
 <br />
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
