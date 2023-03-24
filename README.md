@@ -3,7 +3,7 @@
 <br/>
 
 <p align="left">
-  I am a technical professional with a passion for learning and 3 years of experience leading teams to build enterprise-grade distributed applications that solve real-world problems. I am a firm believer that collaboration across all facets of a business, from development to marketing to sales, is required to succeed in this endeavor. 
+ - I am a technical professional with a passion for learning and 3 years of experience leading teams to build enterprise-grade distributed applications that solve real-world problems. I am a firm believer that collaboration across all facets of a business, from development to marketing to sales, is required to succeed in this endeavor. 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-the-dev" /> </p>
