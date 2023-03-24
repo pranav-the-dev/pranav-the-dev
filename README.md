@@ -4,14 +4,8 @@
 <h1 align="center">Hello There, I'm Pranav sachaniya  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-mistry&label=Profile%20views&color=129e00&style=plastic" alt="#" /> </p>
-
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<br />
-
-<br />
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="left">
 
