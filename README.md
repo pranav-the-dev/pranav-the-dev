@@ -8,12 +8,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h2 align="left"> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <p align="left">
-
+- 📫 How to reach me **pranav.dev540@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-the-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-the-dev" alt="pranav-the-dev" /></a> </p>
 
-- 📫 How to reach me **pranav.dev540@gmail.com**
+
 
 <p align="left">
 </p>
