@@ -2,8 +2,8 @@
 <p align="left">A passionate backend developer from India</p>
 <br/>
 
-<p align="left">
- - I am a technical professional with a passion for learning and 3 years of experience leading teams to build enterprise-grade distributed applications that solve real-world problems. I am a firm believer that collaboration across all facets of a business, from development to marketing to sales, is required to succeed in this endeavor. 
+<p align="justify">
+I am a technical professional with a passion for learning and 3 years of experience leading teams to build enterprise-grade distributed applications that solve real-world problems. I am a firm believer that collaboration across all facets of a business, from development to marketing to sales, is required to succeed in this endeavor. 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-the-dev" /> </p>
@@ -18,15 +18,9 @@
 
 - 🤝 I’m looking for help with **backend project**
 
-- 👨‍💻 All of my projects are available at [www.hello.com](www.hello.com)
-
-- 📝 I regularly write articles on [blogpost.com](blogpost.com)
-
 - 💬 Ask me about **Technologies**
 
 - 📫 How to reach me **pranav.dev540@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
